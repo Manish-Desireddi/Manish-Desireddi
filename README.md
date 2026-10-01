@@ -10,7 +10,7 @@
 <p align="center">
   <picture>
     <source
-      media="(prefers-color-scheme: dark)"
+      media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:c026d3&height=240&section=header&text=Manish%20Desireddi&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=AI%20systems%20%E2%80%94%20built%20to%20last%2C%20trained%20to%20think.&descAlignY=70&descSize=15&animation=fadeIn"
     />
     <img
