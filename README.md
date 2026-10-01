@@ -219,7 +219,7 @@ Boring infrastructure done right.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Desireddi&theme=react-dark&bg_color=00000000&color=06b6d4&line=7c3aed&point=c026d3&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Desireddi&theme=transparent&bg_color=00000000&color=06b6d4&line=7c3aed&point=c026d3&area=true&hide_border=true"
     alt="Contribution graph"
     width="100%"
   />
