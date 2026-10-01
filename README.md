@@ -218,7 +218,7 @@ Boring infrastructure done right.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Desireddi&theme=transparent&color=06b6d4&line=7c3aed&point=c026d3&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Desireddi&bg_color=transparent&color=06b6d4&line=7c3aed&point=c026d3&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
