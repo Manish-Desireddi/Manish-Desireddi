@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/manishdesireddi"><img src="https://komarev.com/ghpvc/?username=manishdesireddi&label=visitors&color=06b6d4&style=flat-square" alt="Profile visits" /></a>
-  <img src="https://img.shields.io/github/followers/manish-desireddi?label=followers&style=flat-square&color=7c3aed&labelColor=09090b" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Manish-Desireddi?label=followers&style=flat-square&color=7c3aed&labelColor=09090b" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/role-AI%20%26%20Automation%20Engineer-06b6d4?style=flat-square&labelColor=09090b" alt="Role" />
   <img src="https://img.shields.io/badge/status-open%20to%20opportunities-22c55e?style=flat-square&labelColor=09090b" alt="Status" />
 </p>
@@ -218,7 +218,7 @@ Boring infrastructure done right.
 </p>
 
 <p align="center">
-  ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish-Desireddi&theme=transparent&bg_color=00000000&color=06b6d4&line=7c3aed&point=c026d3&area=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Desireddi&theme=transparent&bg_color=00000000&color=06b6d4&line=7c3aed&point=c026d3&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
