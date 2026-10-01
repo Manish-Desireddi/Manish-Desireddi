@@ -62,7 +62,7 @@ I build **AI systems that survive contact with production** — fine-tuned model
 > ```ts
 > const manish = {
 >   role     : "Automation Engineer Intern @ Nokia Solutions and Networks",
->   degree   : "B.Tech · AI & Data Science · KL University (CGPA 8.2)",
+>   degree   : "B.Tech · AI & Data Science · KL University (CGPA 8.65)",
 >   focus    : ["generative AI", "agentic systems", "distributed automation"],
 >   stack    : ["python", "pytorch", "fastapi", "airflow", "react", "docker"],
 >   currently: "fine-tuning latents that feel like geometry",
